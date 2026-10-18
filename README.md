@@ -44,7 +44,7 @@ Before running the application, make sure you have:
 
 - Java Development Kit (JDK)
 - MySQL Server
-- A Java IDE, such as Eclipse or NetBeans
+- A Java IDE, such as Eclipse 
 - MySQL JDBC driver
 
 ### Setup Instructions
